@@ -30,9 +30,11 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-Add Code here
+<img width="670" height="121" alt="image" src="https://github.com/user-attachments/assets/dca3f492-cdb5-4355-812e-24107385dd42" />
 
 ## Sample Output
+<img width="786" height="117" alt="image" src="https://github.com/user-attachments/assets/363954b6-a63f-4ae2-bca9-ebfc18f0c366" />
+<img width="542" height="113" alt="image" src="https://github.com/user-attachments/assets/8372931d-99e0-4dff-84b8-f354d78afb94" />
 
 ## Result
-
+Thus  a python program to Sorting the Keys and Values in Alphabetical Order using the Key in Dictionary is created.
